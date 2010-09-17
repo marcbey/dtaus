@@ -1,3 +1,4 @@
+# coding: utf-8
 require 'enumerator'
 require 'dtaus/erweiterung'
 
